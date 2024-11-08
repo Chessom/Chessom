@@ -1,2 +1,2 @@
-<a href="https://github.com/Chessom/"><img height="190px" align="left" src="https://github-readme-stats.vercel.app/api/?username=Chessom&show_icons=true&count_private=true&langs_count=3&locale=cn&theme=light" /></a>
-<a href="https://github.com/Chessom/"><img height="190px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chessom&layout=compact&langs_count=10&locale=cn&theme=light" /></a>
+<a href="https://github.com/Chessom/"><img height="190px" align="left" src="https://github-readme-stats.vercel.app/api/?username=Chessom&show_icons=true&count_private=true&langs_count=3&locale=en&theme=light" /></a>
+<a href="https://github.com/Chessom/"><img height="190px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chessom&layout=compact&langs_count=10&locale=en&theme=light" /></a>
