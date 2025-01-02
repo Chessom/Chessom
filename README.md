@@ -1,2 +1,6 @@
-<a href="https://github.com/Chessom/"><img height="190px" align="left" src="https://github-readme-stats.vercel.app/api/?username=Chessom&show_icons=true&count_private=true&langs_count=3&locale=en&theme=light" /></a>
-<a href="https://github.com/Chessom/"><img height="190px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chessom&layout=compact&langs_count=10&locale=en&theme=light" /></a>
+![](https://komarev.com/ghpvc/?username=Chessom)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chessom&theme=light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chessom&theme=light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chessom&theme=light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chessom&theme=light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chessom&theme=light)
